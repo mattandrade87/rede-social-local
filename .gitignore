@@ -1,0 +1,29 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend (Java/Maven)
+backend/target/
+backend/*.jar
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/.mvn/maven/
+
+# Mobile (Node/Expo)
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+mobile/expo-env.d.ts
+mobile/ios/
+mobile/android/
+
+# Env files
+.env
+.env*.local
+
+node_modules
